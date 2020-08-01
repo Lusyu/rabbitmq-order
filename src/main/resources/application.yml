@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: Lusy #当前登录的rabbitmq的账号  默认的账户的就是guest
+    password: 123456 #密码  默认的账户的密码页数guest
